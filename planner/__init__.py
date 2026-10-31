@@ -1,0 +1,1 @@
+"""AI-Based Agricultural UAV Coverage Planning and Optimization (planning engine)."""
